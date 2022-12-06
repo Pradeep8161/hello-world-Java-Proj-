@@ -24,7 +24,7 @@
     <br>
 
     <label for="DOB"><b>DOB</b></label>
-    <input type="DOB" placeholder="DOB" name="DOB" required>
+    <input type="DOB" placeholder="Enter DOB" name="DOB" required>
     
     <br>
     <br>
