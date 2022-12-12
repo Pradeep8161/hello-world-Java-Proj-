@@ -1,3 +1,4 @@
+<h2>Hi Welcome to Pradeep Page </h2>
 <form action="action_page.php" style="border:1px solid #ccc">
   <div class="container">
     <h1>Sign Up</h1>
@@ -25,3 +26,4 @@
     </div>
   </div>
 </form>
+<h1>------------------Thank You-----------------</h1>
